@@ -7,6 +7,7 @@
 }
 /* top navbar */
 .top-navbar{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     display: flex;
     justify-content: space-between;
 }
@@ -48,7 +49,7 @@
         width: 13px;
     }
     .top-navbar p{
-        font-size: 10px;
+        font-size: 15px;
     }
 }
 @media screen and (max-width:318px){
